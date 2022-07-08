@@ -1,0 +1,1 @@
+# nexcord-bot-template
