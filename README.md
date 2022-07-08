@@ -1,5 +1,5 @@
 <h1>
-a simple template nextcord bot,
+a simple nextcord bot template,
 clone and get to work!
 </h1>
 
